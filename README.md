@@ -5,7 +5,6 @@ This repository groups various libraries, programs and examples related to video
 The top level solution built on top of libraries forms:
 - 100 ms order latency Realsense Camera to Unity WiFi streaming
 - measured between LattePanda Alpha and i7-7820HK laptop
-- with hardware decoding/encoding and color conversions
  
 ### [HVD Hardware Video Decoder](https://github.com/bmegli/hardware-video-decoder)
 
