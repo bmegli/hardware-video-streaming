@@ -1,10 +1,12 @@
 # hardware-video-streaming meta repository
 
-This repository groups various libraries, programs and examples related to video streaming.
+This repository groups libraries, programs and examples related to video streaming.
 
-The top level solution built on top of libraries forms:
-- 100 ms order latency Realsense Camera to Unity WiFi streaming
-- measured between LattePanda Alpha and i7-7820HK laptop
+## Before diving in
+
+If you have no specific needs use gstreamer or FFmpeg command line streaming.
+
+## Repositories
  
 ### [HVD Hardware Video Decoder](https://github.com/bmegli/hardware-video-decoder)
 
@@ -37,3 +39,9 @@ Example of Realsense camera color/infraed H.264 network streaming with [NHVE](ht
 ### [unity-network-hardware-video-decoder](https://github.com/bmegli/unity-network-hardware-video-decoder)
 
 Unity rendering example of [NHVD](https://github.com/bmegli/network-hardware-video-decoder) hardware decoded H.264 network stream.
+
+## Additional information
+
+The top level solution built on top of libraries forms:
+- 100 ms order latency Realsense Camera to Unity WiFi streaming
+- measured between LattePanda Alpha and i7-7820HK laptop
