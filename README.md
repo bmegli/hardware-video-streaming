@@ -8,15 +8,15 @@ The top level solution built on top of libraries forms:
  
 ### [HVD Hardware Video Decoder](https://github.com/bmegli/hardware-video-decoder)
 
-VAAPI hardware decoding wrapped in a simple zero-copy interface.
+Multiple technologies hardware decoding wrapped in a simple zero-copy interface to FFmpeg.
 
 ### [HVE Hardware Video Encoder](https://github.com/bmegli/hardware-video-encoder)
 
-Multiple technologies hardware encoding wrapped in a simple zero-copy interface.
+VAAPI hardware encoding wrapped in a simple zero-copy interface to FFmpeg.
 
 ### [MLSP Minimal Latency Streaming Protocol](https://github.com/bmegli/minimal-latency-streaming-protocol)
 
-A simple zero buffering and zero-copy UDP blaster.
+A simple zero buffering UDP blaster.
 
 ### [NHVD Network Hardware Video Decoder](https://github.com/bmegli/network-hardware-video-decoder)
 
