@@ -32,6 +32,10 @@ Network hardware encoder on top of [HVE](https://github.com/bmegli/hardware-vide
 
 Example of Realsense camera infrared stream H.264 encoding with [HVE](https://github.com/bmegli/hardware-video-encoder).
 
+### [realsense-depth-to-vaapi-hevc10](https://github.com/bmegli/realsense-depth-to-vaapi-hevc10)
+
+Example of Realsense camera depth stream HEVC Main10 encoding with [HVE](https://github.com/bmegli/hardware-video-encoder).
+
 ### [realsense-network-hardware-video-encoder](https://github.com/bmegli/realsense-network-hardware-video-encoder)
 
 Example of Realsense camera color/infraed H.264 network streaming with [NHVE](https://github.com/bmegli/network-hardware-video-encoder).
