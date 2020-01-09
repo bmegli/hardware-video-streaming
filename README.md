@@ -38,7 +38,7 @@ Example of Realsense camera depth stream HEVC Main10 encoding with [HVE](https:/
 
 ### [realsense-network-hardware-video-encoder](https://github.com/bmegli/realsense-network-hardware-video-encoder)
 
-Example of Realsense camera color/infraed H.264 network streaming with [NHVE](https://github.com/bmegli/network-hardware-video-encoder).
+Example of Realsense camera color/ir H.264 and color/ir/depth HEVC network streaming with [NHVE](https://github.com/bmegli/network-hardware-video-encoder).
 
 ### [unity-network-hardware-video-decoder](https://github.com/bmegli/unity-network-hardware-video-decoder)
 
