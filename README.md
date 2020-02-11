@@ -42,7 +42,7 @@ Example of Realsense camera color/ir H.264 and color/ir/depth HEVC network strea
 
 ### [unity-network-hardware-video-decoder](https://github.com/bmegli/unity-network-hardware-video-decoder)
 
-Unity rendering example of [NHVD](https://github.com/bmegli/network-hardware-video-decoder) hardware decoded H.264 network stream.
+Unity rendering example of [NHVD](https://github.com/bmegli/network-hardware-video-decoder) hardware decoded H.264/HEVC network  video/depth stream.
 
 ## Additional information
 
