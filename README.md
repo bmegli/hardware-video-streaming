@@ -1,6 +1,6 @@
 # hardware-video-streaming meta repository
 
-This repository groups libraries, programs and examples related to video streaming.
+This repository groups libraries, programs and examples related to video and point cloud streaming.
 
 ## Before diving in
 
@@ -36,13 +36,21 @@ Example of Realsense camera infrared stream H.264 encoding with [HVE](https://gi
 
 Example of Realsense camera depth stream HEVC Main10 encoding with [HVE](https://github.com/bmegli/hardware-video-encoder).
 
-### [realsense-network-hardware-video-encoder](https://github.com/bmegli/realsense-network-hardware-video-encoder)
+### [RNHVE Realsense Network Hardware Video Encoder](https://github.com/bmegli/realsense-network-hardware-video-encoder)
 
 Example of Realsense camera color/ir H.264 and color/ir/depth HEVC network streaming with [NHVE](https://github.com/bmegli/network-hardware-video-encoder).
 
-### [unity-network-hardware-video-decoder](https://github.com/bmegli/unity-network-hardware-video-decoder)
+### [UNHVD Unity Network Hardware Video Decoder](https://github.com/bmegli/unity-network-hardware-video-decoder)
 
-Unity rendering example of [NHVD](https://github.com/bmegli/network-hardware-video-decoder) hardware decoded H.264/HEVC network  video/depth stream.
+Unity rendering example of [unhvd-native](https://github.com/bmegli/unhvd-native) hardware decoded H.264/HEVC network  video/depth stream.
+
+### [unhvd-native](https://github.com/bmegli/unhvd-native)
+
+Native library for video, streaming, hardware decoding and depth to point cloud unprojection on top of [NHVD](https://github.com/bmegli/network-hardware-video-decoder) and [HDU](https://github.com/bmegli/hardware-depth-unprojector).
+
+### [HDU Hardware Depth Unprojector](https://github.com/bmegli/hardware-depth-unprojector)
+
+Placeholder for future library with software implementation.
 
 ## Additional information
 
