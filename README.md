@@ -42,7 +42,7 @@ Example of Realsense camera color/ir H.264 and color/ir/depth HEVC network strea
 
 ### [UNHVD Unity Network Hardware Video Decoder](https://github.com/bmegli/unity-network-hardware-video-decoder)
 
-Unity rendering example of [unhvd-native](https://github.com/bmegli/unhvd-native) hardware decoded H.264/HEVC network  video/depth stream.
+Unity rendering example of [unhvd-native](https://github.com/bmegli/unhvd-native) hardware decoded H.264/HEVC network video/depth stream.
 
 ### [unhvd-native](https://github.com/bmegli/unhvd-native)
 
@@ -50,7 +50,7 @@ Native library for video, streaming, hardware decoding and depth to point cloud 
 
 ### [HDU Hardware Depth Unprojector](https://github.com/bmegli/hardware-depth-unprojector)
 
-Placeholder for future library with software implementation.
+Compute, vertex and pixel shaders for unprojection and rendering of point clouds.
 
 ## Additional information
 
