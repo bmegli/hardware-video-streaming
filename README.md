@@ -14,7 +14,7 @@ Multiple technologies hardware decoding wrapped in a simple zero-copy interface 
 
 ### [HVE Hardware Video Encoder](https://github.com/bmegli/hardware-video-encoder)
 
-VAAPI hardware encoding wrapped in a simple zero-copy interface to FFmpeg.
+VAAPI/NVENC hardware encoding wrapped in a simple zero-copy interface to FFmpeg.
 
 ### [MLSP Minimal Latency Streaming Protocol](https://github.com/bmegli/minimal-latency-streaming-protocol)
 
